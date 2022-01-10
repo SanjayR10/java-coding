@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Library
+comment1.params=n\ au\ pe
+comment1.target=Library(java.lang.String,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=void\ show()
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=happy
+comment1.params=
+comment1.target=void\ input()
+comment2.params=a
+comment2.target=void\ magic(int)
+comment3.params=u
+comment3.target=int\ sum_sq(int)
+numComments=4

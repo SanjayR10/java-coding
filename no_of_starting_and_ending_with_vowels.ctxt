@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=no_of_starting_and_ending_with_vowels
+comment1.params=
+comment1.target=void\ main()
+comment2.params=chss\ chll
+comment2.target=boolean\ is(char,\ char)
+numComments=3

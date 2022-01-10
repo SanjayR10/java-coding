@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=fib
+comment1.params=
+comment1.target=void\ input()
+comment2.params=a\ b\ g
+comment2.target=int\ inputt(int,\ int,\ int)
+numComments=3
